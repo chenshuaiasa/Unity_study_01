@@ -1,0 +1,4 @@
+repository "CsharpProject@shuaiguoasa@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
